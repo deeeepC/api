@@ -37,11 +37,12 @@
 │   │   ├── test can data
 │   │   ├── test sensor data
 │   │   ├── test camera data
-│   ├── utils/  # Utilities for data parsing, etc.
+│   ├── utils/
 │   │   ├── __init__.py
 │   │   ├── util for parsing and validating incoming data
-│   ├── app entry point
 │   ├── __init__.py
+│   ├── app entry point
+│   ├── structure.md
 │
 ├── Dockerfile
 ├── .env
