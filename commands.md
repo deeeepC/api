@@ -1,5 +1,5 @@
 # run server
-```uvicorn source.server:app --reload```
+```uvicorn app.main:app --reload```
 
 # run tests
 ```pytest```
